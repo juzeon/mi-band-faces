@@ -27,3 +27,7 @@
 ### nina_a
 
 ![](images/nina_a_preview.png)
+
+## 许可证
+
+[LICENSE](LICENSE)
