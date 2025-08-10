@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<FaceProject DeviceType="466" Id="167210067">
+	<Screen Title="takopi" Bitmap="takopi.png">
+		<Widget Shape="30" Name="bg" Bitmap="takopi.png" X="0" Y="0" Width="212" Height="512" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="32" Name="hour" BitmapList="clock_0.png|clock_1.png|clock_2.png|clock_3.png|clock_4.png|clock_5.png|clock_6.png|clock_7.png|clock_8.png|clock_9.png" X="21" Y="146" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="2" Alignment="0" Value_Src="811" Spacing="0" Blanking="0"/>
+		<Widget Shape="32" Name="minute" BitmapList="clock_0.png|clock_1.png|clock_2.png|clock_3.png|clock_4.png|clock_5.png|clock_6.png|clock_7.png|clock_8.png|clock_9.png" X="122" Y="146" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="2" Alignment="0" Value_Src="1011" Spacing="0" Blanking="0"/>
+		<Widget Shape="30" Name="hm_splitter" Bitmap="clock_splitter.png" X="89" Y="146" Width="35" Height="50" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="32" Name="month" BitmapList="date_0.png|date_1.png|date_2.png|date_3.png|date_4.png|date_5.png|date_6.png|date_7.png|date_8.png|date_9.png" X="23" Y="199" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="2" Alignment="2" Value_Src="1012" Spacing="0" Blanking="1"/>
+		<Widget Shape="32" Name="day" BitmapList="date_0.png|date_1.png|date_2.png|date_3.png|date_4.png|date_5.png|date_6.png|date_7.png|date_8.png|date_9.png" X="77" Y="199" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="2" Alignment="2" Value_Src="1812" Spacing="0" Blanking="0"/>
+		<Widget Shape="30" Name="md_splitter" Bitmap="date_splitter.png" X="60" Y="199" Width="20" Height="30" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="31" Name="week" BitmapList="(0):week_0.png|(1):week_1.png|(2):week_2.png|(3):week_3.png|(4):week_4.png|(5):week_5.png|(6):week_6.png" X="133" Y="198" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="0" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0" Index_Src="2012"/>
+		<Widget Shape="30" Name="week_l" Bitmap="date_(.png" X="120" Y="199" Width="20" Height="30" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="30" Name="week_r" Bitmap="date_).png" X="156" Y="199" Width="20" Height="30" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="32" Name="battery" BitmapList="xs_n_0.png|xs_n_1.png|xs_n_2.png|xs_n_3.png|xs_n_4.png|xs_n_5.png|xs_n_6.png|xs_n_7.png|xs_n_8.png|xs_n_9.png" X="69" Y="493" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="3" Alignment="2" Value_Src="841" Spacing="0" Blanking="1"/>
+		<Widget Shape="30" Name="battery_tail" Bitmap="xs_n_%.png" X="114" Y="493" Width="15" Height="20" Alpha="255" Visible_Src="0"/>
+	</Screen>
+</FaceProject>
