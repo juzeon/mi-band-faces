@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<FaceProject DeviceType="466" Id="167210065">
+	<Screen Title="kisara" Bitmap="kisara-band.png">
+		<Widget Shape="30" Name="bg" Bitmap="kisara-band.png" X="0" Y="0" Width="212" Height="520" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="32" Name="h-h" BitmapList="number_0.png|number_1.png|number_2.png|number_3.png|number_4.png|number_5.png|number_6.png|number_7.png|number_8.png|number_9.png" X="13" Y="43" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="1000911" Spacing="0" Blanking="0"/>
+		<Widget Shape="32" Name="h-l" BitmapList="number_0.png|number_1.png|number_2.png|number_3.png|number_4.png|number_5.png|number_6.png|number_7.png|number_8.png|number_9.png" X="52" Y="43" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="911" Spacing="0" Blanking="0"/>
+		<Widget Shape="32" Name="m-h" BitmapList="number_0.png|number_1.png|number_2.png|number_3.png|number_4.png|number_5.png|number_6.png|number_7.png|number_8.png|number_9.png" X="107" Y="43" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="1211" Spacing="0" Blanking="0"/>
+		<Widget Shape="32" Name="m-l" BitmapList="number_0.png|number_1.png|number_2.png|number_3.png|number_4.png|number_5.png|number_6.png|number_7.png|number_8.png|number_9.png" X="146" Y="43" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="1111" Spacing="0" Blanking="0"/>
+		<Widget Shape="30" Name="n_splitter" Bitmap="number_splitter.png" X="79" Y="43" Width="50" Height="50" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="32" Name="month" BitmapList="mini_n_0.png|mini_n_1.png|mini_n_2.png|mini_n_3.png|mini_n_4.png|mini_n_5.png|mini_n_6.png|mini_n_7.png|mini_n_8.png|mini_n_9.png" X="19" Y="108" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="2" Alignment="2" Value_Src="1012" Spacing="0" Blanking="1"/>
+		<Widget Shape="32" Name="day" BitmapList="mini_n_0.png|mini_n_1.png|mini_n_2.png|mini_n_3.png|mini_n_4.png|mini_n_5.png|mini_n_6.png|mini_n_7.png|mini_n_8.png|mini_n_9.png" X="75" Y="108" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="2" Alignment="0" Value_Src="1812" Spacing="0" Blanking="0"/>
+		<Widget Shape="30" Name="widget-0" Bitmap="mini_n_splitter.png" X="57" Y="108" Width="20" Height="30" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="31" Name="widget-1" BitmapList="(0):week_0.png|(1):week_1.png|(2):week_2.png|(3):week_3.png|(4):week_4.png|(5):week_5.png|(6):week_6.png" X="133" Y="108" Width="48" Height="48" Alpha="255" Alignment="0" DefaultIndex="0" Value_Src="0" Spacing="0" Blanking="0" Visible_Src="0" Index_Src="2012"/>
+		<Widget Shape="30" Name="widget-2" Bitmap="mini_n_(.png" X="121" Y="109" Width="20" Height="30" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="30" Name="widget-2 - Copy1" Bitmap="mini_n_).png" X="156" Y="109" Width="20" Height="30" Alpha="255" Visible_Src="0"/>
+		<Widget Shape="32" Name="widget-4" BitmapList="xs_n_0.png|xs_n_1.png|xs_n_2.png|xs_n_3.png|xs_n_4.png|xs_n_5.png|xs_n_6.png|xs_n_7.png|xs_n_8.png|xs_n_9.png" X="76" Y="489" Width="48" Height="48" Alpha="255" Visible_Src="0" Digits="3" Alignment="2" Value_Src="841" Spacing="0" Blanking="1"/>
+		<Widget Shape="30" Name="widget-5" Bitmap="xs_n_%.png" X="120" Y="489" Width="15" Height="20" Alpha="255" Visible_Src="0"/>
+	</Screen>
+</FaceProject>
