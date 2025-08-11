@@ -36,6 +36,10 @@
 
 ![](images/fuudokooto_preview.png)
 
+### fumino
+
+![](images/fumino_preview.png)
+
 ## 许可证
 
 [LICENSE](LICENSE)
