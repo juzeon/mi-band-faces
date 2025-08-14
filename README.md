@@ -52,6 +52,12 @@
 
 ![](images/fumino_preview.png)
 
+### ikubo
+
+[女部田郁子](https://bangumi.tv/character/63867)
+
+![](images/ikubo_preview.png)
+
 ## 许可证
 
 [LICENSE](LICENSE)
